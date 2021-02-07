@@ -137,8 +137,8 @@ public class Database {
 	public static void main(String[] args) {
 
 		Database db = new Database();
-//		db.printUsers();
-		db.downloadFile(1);
+		db.printUsers();
+//		db.downloadFile(1);
 
 	}// main
 
